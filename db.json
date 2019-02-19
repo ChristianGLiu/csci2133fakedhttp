@@ -1,6 +1,8 @@
 {
   [
-  id: 1,
-  name:teseter
+  {id: 1,
+  uname:"teseter",
+  pwd:"tester
+  }
   ]
 }
