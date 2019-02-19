@@ -2,7 +2,11 @@
   [
   {id: 1,
   uname:"teseter",
-  pwd:"tester
+  pwd:"tester"
+  },
+  {id: 2,
+  uname:"teseter2",
+  pwd:"tester2"
   }
   ]
 }
